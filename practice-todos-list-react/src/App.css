@@ -1,0 +1,12 @@
+.list{
+  background-color: lightsalmon;
+  border: 2px solid seagreen;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.lists{
+  text-align: center;
+}
